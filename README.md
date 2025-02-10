@@ -1,6 +1,6 @@
 ### Dumelang 👋
  
- My name is kagiso and i am a Masters of Science student with Biological science with the biological science department at the University of Cape Town.   
+I am a Master of Science student in Biological Sciences at the University of Cape Town, specializing in ecological spatial modeling. My research focuses on applying spatial data analysis techniques to model species distribution and understand the ecological factors influencing them. In addition, I explore the same methods to analyze societal phenomena like crime rates and disease spread, using data science and machine learning approaches to uncover meaningful patterns. This interdisciplinary work bridges biology, geography, and data science to solve complex real-world problems.
 
 🔭 I’m currently working on mapping endemic flora in the Cape floristic region using GIS tools.
 
